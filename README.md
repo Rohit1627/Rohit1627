@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Potale</h1>
 <h3 align="center">I am Rohit, a Cloud Engineer from India passionate about Cloud and DevOps tools with 3+ years of professional onsite as well as remote working experience.</h3>
-<img align="right" alt="test" width="400" src="![image](https://user-images.githubusercontent.com/60436845/236635744-b84d04d2-0bf2-40d5-9d7f-ba842e105d7f.png)
-">
+<img align="right" alt="test" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 🌱 I’m currently learning **DevOps, Azure DevOps, AWS**
 
