@@ -1,3 +1,4 @@
+![logo](https://github.com/Rohit1627/Rohit1627/blob/main/final.png)
 <h1 align="center">Hi 👋, I'm Rohit Potale</h1>
 <h3 align="center">I am Rohit, a Cloud Engineer from India passionate about Cloud and DevOps tools with 3+ years of professional onsite as well as remote working experience.</h3>
 <img align="right" alt="test" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
